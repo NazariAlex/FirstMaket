@@ -10,6 +10,12 @@
     margin: auto;
 }
 
+@media screen and (max-width: 600px) {
+    .container {
+        display: inline;
+        width: 25%;
+    }    
+}
 .heder {
     margin-left: 405px;
     margin-right: 405px;
