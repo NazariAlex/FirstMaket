@@ -5,6 +5,9 @@
 
 .container {
     font-size: 0px;
+    width: 100%;
+    display: inline;
+    margin: auto;
 }
 
 .heder {
@@ -471,3 +474,4 @@ footer {
     align-items: center;
     gap: 36.6px;
 }
+
